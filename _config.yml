@@ -12,5 +12,4 @@ kramdown:
 # 可选：排除不需要处理的文件
 exclude:
   - generate.py
-  - README.md
   - .github/
