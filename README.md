@@ -1,5 +1,6 @@
 # hewking.top
 ## Posts
+- #20 [控糖革命-小记](articles/20.md) 2024-12-07 `blog`
 - #18 [SQL roadmap](articles/18.md) 2024-12-07 `blog`
 - #16 [DBeaver 数据库操作指南](articles/16.md) 2024-12-03 `blog`
 - #13 [大互联网公司排斥链接改变互联网生态](articles/13.md) 2024-12-01 `blog`
