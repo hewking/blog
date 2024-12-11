@@ -1,5 +1,6 @@
 # hewking.top
 ## Posts
+- #22 [经济机器如何运行-要点](articles/22.md) 2024-12-11 `blog`
 - #20 [控糖革命-小记](articles/20.md) 2024-12-07 `blog`
 - #18 [SQL roadmap](articles/18.md) 2024-12-07 `blog`
 - #16 [DBeaver 数据库操作指南](articles/16.md) 2024-12-03 `blog`
