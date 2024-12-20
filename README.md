@@ -1,5 +1,6 @@
 # hewking.top
 ## Posts
+- #26 [git bisect 用法](articles/26.md) 2024-12-20 `blog`
 - #24 [打造完美社交名片：用户名、头像、背景图和个人简介终极指南](articles/24.md) 2024-12-14 `blog`
 - #22 [经济机器如何运行-要点](articles/22.md) 2024-12-11 `blog`
 - #20 [控糖革命-小记](articles/20.md) 2024-12-07 `blog`
