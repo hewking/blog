@@ -1,7 +1,7 @@
 # 基础配置
 title: hewking.top
 description: hewking's blog
-theme: jekyll-theme-minimal # 或其他主题
+theme: jekyll-theme-hacker # 或其他主题
 
 # Jekyll 设置
 markdown: kramdown
