@@ -1,26 +1,15 @@
 # 基础配置
 title: hewking.top
-description: Code & Think | A tech blog focusing on programming and thoughts
-url: "https://hewking.github.io"  # 改成你的 GitHub Pages URL
-baseurl: "/blog"                  # 如果是项目站点需要加上仓库名
+description: hewking's blog
+theme: jekyll-theme-minimal # 或其他主题
 
-# 主题 (使用 GitHub Pages 支持的主题)
-theme: jekyll-theme-hacker
-
-# 基础设置
+# Jekyll 设置
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-# GitHub Pages 支持的插件
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# 排除文件
+# 可选：排除不需要处理的文件
 exclude:
   - generate.py
-  - README.md
   - .github/
-  - Gemfile
-  - Gemfile.lock
