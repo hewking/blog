@@ -1,5 +1,6 @@
 # hewking.top
 ## Posts
+- #40 [The Transformer's encoder clearly explaine](articles/40.md) 2024-12-29 `blog`
 - #38 [GitLab AI Code Review 实践分享](articles/38.md) 2024-12-29 `blog`
 - #35 [ GitLab SSH key 配置](articles/35.md) 2024-12-29 `blog`
 - #33 [GitHub Pages 配置DNS A记录](articles/33.md) 2024-12-29 `blog`
