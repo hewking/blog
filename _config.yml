@@ -1,15 +1,52 @@
-# 基础配置
+# 基础信息
 title: hewking.top
-description: hewking's blog
-theme: jekyll-theme-minimal  # 或其他主题
+tagline: Code & Think
+description: A tech blog focusing on programming and thoughts
+url: "https://hewking.top"
+author: hewking
+avatar: assets/img/avatar.jpg # 添加你的头像
 
-# Jekyll 设置
+# 主题设置
+theme: jekyll-theme-chirpy # 更现代的主题
+timezone: Asia/Shanghai
+lang: zh-CN
+
+# UI 定制
+theme_mode: dark # 暗色主题
+toc: true # 文章目录
+comments:
+  active: giscus # 基于 GitHub Discussions 的评论系统
+
+# SEO 优化
+google_analytics:
+  id: "G-XXXXXXXXXX" # 替换成你的 GA ID
+
+# 文章设置
 markdown: kramdown
 kramdown:
-  input: GFM
   syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
 
-# 可选：排除不需要处理的文件
+# 插件
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-github-metadata
+
+# 分页
+paginate: 10
+
+# 排除文件
 exclude:
   - generate.py
   - .github/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
