@@ -1,52 +1,26 @@
-# 基础信息
+# 基础配置
 title: hewking.top
 description: Code & Think | A tech blog focusing on programming and thoughts
-url: "https://hewking.top"
-author: hewking
+url: "https://hewking.github.io"  # 改成你的 GitHub Pages URL
+baseurl: "/blog"                  # 如果是项目站点需要加上仓库名
 
-# 主题设置
+# 主题 (使用 GitHub Pages 支持的主题)
 theme: jekyll-theme-hacker
+
+# 基础设置
 markdown: kramdown
 highlighter: rouge
 
-# 代码高亮设置
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: highlight
-    block:
-      line_numbers: true
-      start_line: 1
-
-# 插件 (GitHub Pages 支持的)
+# GitHub Pages 支持的插件
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-
-# 分页
-paginate: 10
-paginate_path: "/page:num/"
-
-# SEO 优化
-twitter:
-  username: hewking
-  card: summary
-social:
-  name: hewking
-  links:
-    - https://github.com/hewking
-
-# 导航
-# header_pages:
-#   - about.md
-#   - archive.md
 
 # 排除文件
 exclude:
   - generate.py
-  - .github/
   - README.md
+  - .github/
   - Gemfile
   - Gemfile.lock
