@@ -1,5 +1,6 @@
 # hewking.top
 ## Posts
+- #35 [ GitLab SSH key 配置](articles/35.md) 2024-12-29 `blog`
 - #33 [GitHub Pages 配置DNS A记录](articles/33.md) 2024-12-29 `blog`
 - #30 [《高效能人士的七个习惯》 读书笔记](articles/30.md) 2024-12-29 `blog`
 - #28 [前端无了](articles/28.md) 2024-12-28 `blog`
