@@ -1,47 +1,47 @@
 # 基础信息
 title: hewking.top
-tagline: Code & Think
-description: A tech blog focusing on programming and thoughts
+description: Code & Think | A tech blog focusing on programming and thoughts
 url: "https://hewking.top"
 author: hewking
-avatar: assets/img/avatar.jpg # 添加你的头像
 
 # 主题设置
-theme: jekyll-theme-chirpy # 更现代的主题
-timezone: Asia/Shanghai
-lang: zh-CN
-
-# UI 定制
-theme_mode: dark # 暗色主题
-toc: true # 文章目录
-comments:
-  active: giscus # 基于 GitHub Discussions 的评论系统
-
-# SEO 优化
-google_analytics:
-  id: "G-XXXXXXXXXX" # 替换成你的 GA ID
-
-# 文章设置
+theme: jekyll-theme-hacker
 markdown: kramdown
+highlighter: rouge
+
+# 代码高亮设置
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     css_class: highlight
-    span:
-      line_numbers: false
     block:
       line_numbers: true
+      start_line: 1
 
-# 插件
+# 插件 (GitHub Pages 支持的)
 plugins:
-  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-archives
-  - jekyll-github-metadata
+  - jekyll-feed
+  - jekyll-paginate
 
 # 分页
 paginate: 10
+paginate_path: "/page:num/"
+
+# SEO 优化
+twitter:
+  username: hewking
+  card: summary
+social:
+  name: hewking
+  links:
+    - https://github.com/hewking
+
+# 导航
+# header_pages:
+#   - about.md
+#   - archive.md
 
 # 排除文件
 exclude:
