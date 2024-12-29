@@ -1,5 +1,6 @@
 # hewking.top
 ## Posts
+- #30 [《高效能人士的七个习惯》 读书笔记](articles/30.md) 2024-12-29 `blog`
 - #28 [前端无了](articles/28.md) 2024-12-28 `blog`
 - #26 [git bisect 用法](articles/26.md) 2024-12-20 `blog`
 - #24 [打造完美社交名片：用户名、头像、背景图和个人简介终极指南](articles/24.md) 2024-12-14 `blog`
