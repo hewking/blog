@@ -1,5 +1,6 @@
 # hewking.top
 ## Posts
+- #48 [Building Effective Agents 实践总结](articles/48.md) 2025-01-08 `blog`
 - #46 [小程序富文本处理方案总结](articles/46.md) 2025-01-05 `blog`
 - #44 [VSCode 插件开发本地调试](articles/44.md) 2025-01-05 `blog`
 - #42 [《数据密集型应用系统设计》（DDIA）读书笔记](articles/42.md) 2025-01-04 `blog`
