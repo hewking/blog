@@ -1,5 +1,6 @@
 # hewking.top
 ## Posts
+- #52 [llm 原理](articles/52.md) 2025-02-13 `blog`
 - #50 [大模型开发入门总结指南](articles/50.md) 2025-01-30 `blog`
 - #48 [Building Effective Agents 实践总结](articles/48.md) 2025-01-08 `blog`
 - #46 [小程序富文本处理方案总结](articles/46.md) 2025-01-05 `blog`
