@@ -1,5 +1,8 @@
 # hewking.top
 ## Posts
+- #77 [English Learn Guide](articles/77.md) 2026-08-30 `blog`
+- #76 [SDD guide](articles/76.md) 2026-02-12 `blog`
+- #75 [基于 Cursor + OpenSpec 的开发工作流](articles/75.md) 2026-02-12 `blog`
 - #73 [AI newsletter 推荐](articles/73.md) 2025-09-16 `blog`
 - #71 [Workflow Automation Guide](articles/71.md) 2025-09-13 `blog`
 - #69 [Master in Cursor](articles/69.md) 2025-06-21 `blog`
@@ -27,6 +30,3 @@
 - #22 [经济机器如何运行-要点](articles/22.md) 2024-12-11 `blog`
 - #20 [控糖革命-小记](articles/20.md) 2024-12-07 `blog`
 - #18 [SQL roadmap](articles/18.md) 2024-12-07 `blog`
-- #16 [DBeaver 数据库操作指南](articles/16.md) 2024-12-03 `blog`
-- #13 [大互联网公司排斥链接改变互联网生态](articles/13.md) 2024-12-01 `blog`
-- #9 [构建基于 github ISSUE 的Blog](articles/9.md) 2024-12-01 `blog`
